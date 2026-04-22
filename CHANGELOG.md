@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- 新增英文文档 [README_EN.md](README_EN.md)
+
+### Changed
+- `README.md` 增加中英文切换入口，并更新为当前项目仓库链接
+
 ## [0.2.5] - 2026-04-11
 
 ### Fixed

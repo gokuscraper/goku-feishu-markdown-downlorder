@@ -1,16 +1,17 @@
-# 悟空飞书导出 Markdown 工具（Streamlit）
+# 悟空飞书导出 Markdown 工具
 
 这是一个基于 Streamlit 的极简工具，面向 **飞书/Lark 文档导出 + Markdown 分析** 两个场景：
 
 - `0导出`：免登录浏览器导出，下载 ZIP（含 `.md` + 图片/附件资源目录）
 - `1分析`：对 Markdown 做基础统计、标题预览、链接导出、高频中文关键词分析
 
-<p align="center">
-  <strong>中文</strong> | <a href="https://github.com/leemysw/feishu-docx/blob/main/README.md">English</a>
-</p>
-</div>
+**中文** | [English](README_EN.md)
 
 ---
+
+## 在线使用
+
+[https://goku-feishu-markdown-downlorder.streamlit.app/](https://goku-feishu-markdown-downlorder.streamlit.app/)
 
 ## 功能概览
 
