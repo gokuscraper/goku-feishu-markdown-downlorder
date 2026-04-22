@@ -1,9 +1,14 @@
 # 悟空飞书导出 Markdown 工具
 
-这是一个基于 Streamlit 的极简工具，面向 **飞书/Lark 文档导出 + Markdown 分析** 两个场景：
+![https://asiaassets.gokuscraper.com/images/2026/04/22/b90fd68e1c4b09ed.webp](https://asiaassets.gokuscraper.com/images/2026/04/22/b90fd68e1c4b09ed.webp)
 
-- `0导出`：免登录浏览器导出，下载 ZIP（含 `.md` + 图片/附件资源目录）
-- `1分析`：对 Markdown 做基础统计、标题预览、链接导出、高频中文关键词分析
+这是一个飞书文档导出工具，支持导出Markdown格式，并进行数据分析。
+
+## 核心优势
+
+- 免登录免配置，可以直接在线使用
+- 直接用浏览器导出，下载 ZIP（含 `.md` + 图片资源目录）
+- 可以 对 Markdown 做基础统计、标题预览、链接导出、高频中文关键词分析
 
 **中文** | [English](README_EN.md)
 
@@ -93,6 +98,20 @@ playwright install chromium
 
 ---
 
+# 公众号和交流群
+
+![交流群](https://asiaassets.gokuscraper.com/%E6%82%9F%E7%A9%BA%E7%88%AC%E8%99%AB%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+
+## 官方网站
+
+https://gokuscraper.com
+
+在线体验工具，或了解更多数据分析能力。
+
+如有定制化数据分析或工具需求，欢迎交流。
+
+
+
 ## 常见问题
 
 ### 1) 提示找不到 `feishu_docx.main`
@@ -112,3 +131,11 @@ playwright install chromium
 ## 备注
 
 本工具基于现有 `feishu-docx` 能力进行 Streamlit UI 封装，重点是“简单可用、可视化、可下载、可分析”。
+
+## 免责声明
+
+本项目为数据分析与可视化工具，仅处理公开数据用于研究分析。
+
+本项目与任何第三方平台无关联或授权关系。
+
+禁止用于任何违法或侵犯他人权益的用途，使用者需自行承担全部责任。
