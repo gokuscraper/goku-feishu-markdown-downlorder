@@ -1,0 +1,14 @@
+{
+  "mode": "免登录模式",
+  "output_dir": "I:\\接单2026\\4-22\\飞书\\feishu-docx\\output",
+  "is_lark": false,
+  "headless": true,
+  "timeout_ms": 30000,
+  "table_format": "md",
+  "sheet_value_mode": "display",
+  "with_block_ids": false,
+  "export_board_metadata": true,
+  "storage_state": "",
+  "browser_executable": "",
+  "updated_at": "2026-04-22T12:12:12"
+}
